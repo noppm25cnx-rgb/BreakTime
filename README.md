@@ -1,5 +1,5 @@
 # BreakTime
-
+A simple timer to remind you to take breaks
 Simple break reminder tool for work.
 
 Features
